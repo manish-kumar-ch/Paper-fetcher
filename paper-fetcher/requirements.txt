@@ -1,0 +1,4 @@
+requests>=2.31
+# Web UI (optional — only needed for `streamlit run app.py`)
+streamlit>=1.30
+pandas>=2.0
